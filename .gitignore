@@ -2,6 +2,8 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Content/StarterContent
+Content/ArtContent
 .vscode
 .vs
 *.VC.db
@@ -12,3 +14,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.psd
+*.png
+*.fbx
+*.wav
